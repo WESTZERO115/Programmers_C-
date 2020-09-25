@@ -27,3 +27,8 @@ int solution(int n, vector<int> lost, vector<int> reserve) {
     
     return (n-doNotHave);
 }
+
+//합계: 58.3 / 100.0 실패
+
+
+
